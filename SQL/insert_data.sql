@@ -9,7 +9,6 @@ Mentors:
     Jughead Jones
 
 */
-source schema.sql;
 USE discorddb;
 
 -------------------------------------------
